@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/376d1c4c-78dc-4080-85ba-2198a9041f0e)
  
 # How to Perform Automated Data Augmentation
 
