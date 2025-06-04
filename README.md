@@ -161,8 +161,8 @@ After training, evaluate on your original validation/test set to measure true ge
 - Train your model with augmented data.  
 - Evaluate on the original dataset.
 
-  ---
-  ## 🏁 Final Thoughts
+---
+## 🏁 Final Thoughts
 
 Automated data augmentation is a powerful way to improve model generalization and reduce overfitting with minimal manual effort. Whether you're using TensorFlow, PyTorch, KerasCV, or other machine learning libraries, there are flexible tools and prebuilt strategies like AutoAugment and RandAugment to help you integrate augmentation seamlessly into your training pipeline. With the right setup, you can let your models learn from a richer, more diverse dataset, all while saving time and improving results.
 
